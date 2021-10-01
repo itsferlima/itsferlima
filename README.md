@@ -1,6 +1,6 @@
 ### 👋Olá, bem vindo !!
 ### 👩‍🎓 Análise e Desenvolvimento de Sistemas 4º
-### 💻 Desenvolvedora Web - Câmara Municipal de São José dos Pinhais 
+### 💻 Desenvolvedora Web - The Brooklyn Brothers 
 
 <div>
   <a href="https://github.com/itsferlima">
