@@ -1,6 +1,6 @@
 ### 👋Olá, bem vindo !!
-### 👩‍🎓 Análise e Desenvolvimento de Sistemas 5º
-### 💻 Desenvolvedora Web - The Brooklyn Brothers 
+### 👩‍🎓 Análise e Desenvolvimento de Sistemas
+### 💻 Desenvolvedora Front End - The Brooklyn Brothers 
 
 <div>
   <a href="https://github.com/itsferlima">
