@@ -1,6 +1,6 @@
-### 👋Olá, bem vindo !!
-### 👩‍🎓 Análise e Desenvolvimento de Sistemas
-### 💻 Desenvolvedora Front End - The Brooklyn Brothers 
+### 👋Welcome !!
+### 👩‍🎓 Studying Analysis
+### 💻 Developer Front End - The Brooklyn Brothers 
 
 <div>
   <a href="https://github.com/itsferlima">
