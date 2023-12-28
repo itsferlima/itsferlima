@@ -1,6 +1,6 @@
 ### 👋Welcome !!
 ### 👩‍🎓 Analysis systems
-### 💻 Developer Front End - The Brooklyn Brothers 
+### 💻 EAM Developer 
 
 <div>
   <a href="https://github.com/itsferlima">
