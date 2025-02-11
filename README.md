@@ -1,6 +1,6 @@
 ### 👋Welcome !!
 ### 👩‍🎓 Analysis systems
-### 💻 EAM Developer 
+### 💻 Front end Developer 
 
 <div>
   <a href="https://github.com/itsferlima">
